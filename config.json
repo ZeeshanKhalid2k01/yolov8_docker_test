@@ -1,0 +1,19 @@
+{
+    "model": "yolov8n.pt",
+    "parameters": {
+      "source": 0,
+      "conf": 0.3,
+      "iou": 0.5,
+      "show": true,
+      "save": false,
+      "save_frames": false,
+      "save_txt": false,
+      "save_conf": true,
+      "save_crop": false,
+      "show_labels": true,
+      "show_conf": true,
+      "show_boxes": true,
+      "line_width": null
+    }
+  }
+  
